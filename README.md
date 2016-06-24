@@ -1,2 +1,2 @@
 # Flow
-A streamlined approach to making cross-platform video games with Mono/C#
+A streamlined approach to making cross-platform games with Mono/C#
